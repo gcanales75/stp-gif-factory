@@ -13,7 +13,7 @@ sectionPagesMenu = "main"
 pygmentsCodeFences = true
 pygmentsStyle = "monokai"
 
-googleAnalytics = "UA-55517703-6"
+googleAnalytics = ""
 
 [params]
   description = ""
